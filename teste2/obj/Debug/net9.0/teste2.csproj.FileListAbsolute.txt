@@ -12,3 +12,4 @@ c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\teste2
 c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\teste2\obj\Debug\net9.0\teste2.pdb
 c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\teste2\obj\Debug\net9.0\teste2.genruntimeconfig.cache
 c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\teste2\obj\Debug\net9.0\ref\teste2.dll
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\teste2\obj\Debug\net9.0\teste2.sourcelink.json

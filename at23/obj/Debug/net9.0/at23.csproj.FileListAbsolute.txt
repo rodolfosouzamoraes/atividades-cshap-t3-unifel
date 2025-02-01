@@ -1,0 +1,15 @@
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\bin\Debug\net9.0\at23.exe
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\bin\Debug\net9.0\at23.deps.json
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\bin\Debug\net9.0\at23.runtimeconfig.json
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\bin\Debug\net9.0\at23.dll
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\bin\Debug\net9.0\at23.pdb
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\obj\Debug\net9.0\at23.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\obj\Debug\net9.0\at23.AssemblyInfoInputs.cache
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\obj\Debug\net9.0\at23.AssemblyInfo.cs
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\obj\Debug\net9.0\at23.csproj.CoreCompileInputs.cache
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\obj\Debug\net9.0\at23.sourcelink.json
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\obj\Debug\net9.0\at23.dll
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\obj\Debug\net9.0\refint\at23.dll
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\obj\Debug\net9.0\at23.pdb
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\obj\Debug\net9.0\at23.genruntimeconfig.cache
+c:\Users\rod_s\source\repos\rodolfosouzamoraes\atividades-cshap-t3-unifel\at23\obj\Debug\net9.0\ref\at23.dll

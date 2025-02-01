@@ -4,26 +4,21 @@ class Program
 {
     static void Main(string[] args)
     {
-        int velocidade = 110;
-        bool resultado1 =  velocidade > 0 && velocidade < 120;
-        //Console.WriteLine(resultado1);
+        Console.WriteLine("Informe um número: ");
+        int numero = int.Parse(Console.ReadLine());
 
-        bool resultado2 = velocidade >= 120 && !(velocidade<=0);
-        //Console.WriteLine(resultado2);
-
-        bool resultado3 = velocidade < 0 || velocidade >= 110;
-        //Console.WriteLine(resultado3);
-
-        int idade = 17;
-        int hora = 21;
-
-        bool resultado4 = (idade >= 18 && idade < 65) && hora <= 21;
-        //Console.WriteLine(resultado4);
-
-        bool resultado5 = (hora > 0 && hora < 24) || (hora < 0 && hora > 24);
-        //Console.WriteLine(resultado5);
-
-        bool resultado6 = (hora > 4 && idade < 0 || idade == 17) && !(hora != 21);
-        Console.WriteLine(resultado6);
+        switch(numero){
+            case 1: //if(numero == 1 || numero == 2 || numero == 3)
+            case 2:
+            case 3:
+            Console.WriteLine(numero);
+            break;
+            case 10:
+            case 11:
+            case 12:
+            case 14:
+            Console.WriteLine(numero);
+            break;
+        }
     }
 }

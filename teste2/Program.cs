@@ -4,21 +4,21 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Informe um número: ");
-        int numero = int.Parse(Console.ReadLine());
+        float[] numeros = new float[5];
+        numeros[0] = 90;
+        numeros[1] = 7;
+        numeros[2] = 8;
+        numeros[3] = 14;
+        numeros[4] = 27;
 
-        switch(numero){
-            case 1: //if(numero == 1 || numero == 2 || numero == 3)
-            case 2:
-            case 3:
-            Console.WriteLine(numero);
-            break;
-            case 10:
-            case 11:
-            case 12:
-            case 14:
-            Console.WriteLine(numero);
-            break;
-        }
+        float soma = numeros[0] + numeros[4];
+        float subtracao = numeros[2] - numeros[1];
+        float multiplicacao = numeros[4] * numeros[4];
+        float divisao = numeros[0] / numeros[3];
+
+        Console.WriteLine($"{numeros[0]} + {numeros[4]} = {soma}");
+        Console.WriteLine($"{numeros[2]} - {numeros[1]} = {subtracao}");
+        Console.WriteLine($"{numeros[4]} * {numeros[4]} = {multiplicacao}");
+        Console.WriteLine($"{numeros[0]} / {numeros[3]} = {divisao}");
     }
 }

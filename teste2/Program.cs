@@ -4,21 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        float[] numeros = new float[5];
-        numeros[0] = 90;
-        numeros[1] = 7;
-        numeros[2] = 8;
-        numeros[3] = 14;
-        numeros[4] = 27;
-
-        float soma = numeros[0] + numeros[4];
-        float subtracao = numeros[2] - numeros[1];
-        float multiplicacao = numeros[4] * numeros[4];
-        float divisao = numeros[0] / numeros[3];
-
-        Console.WriteLine($"{numeros[0]} + {numeros[4]} = {soma}");
-        Console.WriteLine($"{numeros[2]} - {numeros[1]} = {subtracao}");
-        Console.WriteLine($"{numeros[4]} * {numeros[4]} = {multiplicacao}");
-        Console.WriteLine($"{numeros[0]} / {numeros[3]} = {divisao}");
+        Console.WriteLine("Informe um número que o programa deva começar a contar:");
+        int numeroInicial = int.Parse(Console.ReadLine());
+        Console.WriteLine("Informe um número até onde o programa deve contar: ");
+        int numeroFinal = int.Parse(Console.ReadLine());
+        for(int i = numeroInicial; i<=numeroFinal ;i++){
+            Console.WriteLine(i);
+        }
+        
     }
 }

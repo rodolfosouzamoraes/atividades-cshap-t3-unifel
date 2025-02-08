@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rod_s\\source\\repos\\rodolfosouzamoraes\\atividades-cshap-t3-unifel\\at7\\at7.csproj": {}
+    "C:\\Users\\rod_s\\source\\repos\\rodolfosouzamoraes\\atividades-cshap-t3-unifel\\at7\\at7.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rod_s\\source\\repos\\rodolfosouzamoraes\\atividades-cshap-t3-unifel\\at7\\at7.csproj": {
+    "C:\\Users\\rod_s\\source\\repos\\rodolfosouzamoraes\\atividades-cshap-t3-unifel\\at7\\at7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rod_s\\source\\repos\\rodolfosouzamoraes\\atividades-cshap-t3-unifel\\at7\\at7.csproj",
+        "projectUniqueName": "C:\\Users\\rod_s\\source\\repos\\rodolfosouzamoraes\\atividades-cshap-t3-unifel\\at7\\at7.csproj",
         "projectName": "at7",
-        "projectPath": "c:\\Users\\rod_s\\source\\repos\\rodolfosouzamoraes\\atividades-cshap-t3-unifel\\at7\\at7.csproj",
+        "projectPath": "C:\\Users\\rod_s\\source\\repos\\rodolfosouzamoraes\\atividades-cshap-t3-unifel\\at7\\at7.csproj",
         "packagesPath": "C:\\Users\\rod_s\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rod_s\\source\\repos\\rodolfosouzamoraes\\atividades-cshap-t3-unifel\\at7\\obj\\",
+        "outputPath": "C:\\Users\\rod_s\\source\\repos\\rodolfosouzamoraes\\atividades-cshap-t3-unifel\\at7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

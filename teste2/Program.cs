@@ -4,13 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Informe um número que o programa deva começar a contar:");
-        int numeroInicial = int.Parse(Console.ReadLine());
-        Console.WriteLine("Informe um número até onde o programa deve contar: ");
-        int numeroFinal = int.Parse(Console.ReadLine());
-        for(int i = numeroInicial; i<=numeroFinal ;i++){
-            Console.WriteLine(i);
+        int x = 13;
+        for(int i = x - 10; i <= x + 15; i++){
+            x = x - i + 1;            
         }
-        
+        Console.WriteLine($"{x}");
     }
 }
+
+
+
+
